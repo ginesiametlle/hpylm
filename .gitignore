@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# files in the data directory
+data/*
+
+# files in the model directory
+model/*
+
+# files in the eval directory
+eval/*
+
 # Distribution / packaging
 .Python
 env/
